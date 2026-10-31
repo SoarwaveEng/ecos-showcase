@@ -1,0 +1,11 @@
+aveiro.geojson: the street map of Aveiro kept in the Elderly Care OS app
+
+© OpenStreetMap contributors. https://www.openstreetmap.org/copyright
+
+This file is a derivative database of OpenStreetMap data, made by apps/web/scripts/street-map.mjs from two Overpass
+queries: roads, railway and water as of 2026-10-20T14:11:06Z, the coastline as of 2026-10-20T15:24:28Z
+(roads and water selected by type and area, lines simplified to a few metres, the sea built from the coastline).
+
+It is available under the Open Database License 1.0 (ODbL): https://opendatacommons.org/licenses/odbl/1-0/
+You may copy, share and adapt it under that licence: keep this notice, credit "© OpenStreetMap contributors", and
+share anything you make from it under the ODbL too.

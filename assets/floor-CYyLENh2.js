@@ -1,0 +1,1 @@
+const e="ecos.tablet",o="ecos.tablet.mode",c=t=>{try{return localStorage.getItem(t)}catch{return null}},r=(t,a)=>{try{localStorage.setItem(t,a)}catch{}},l=()=>c(e),s=t=>r(e,t),n=()=>{const t=c(o);return t==="overview"||t==="tablet"?t:null},m=t=>r(o,t),g=()=>{try{localStorage.removeItem(e),localStorage.removeItem(o)}catch{}};export{n as a,s as b,m as c,g as f,l as k};
