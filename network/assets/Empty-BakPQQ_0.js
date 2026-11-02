@@ -1,0 +1,1 @@
+import{j as s}from"./index-CNtO59Df.js";const o=({title:t,children:e})=>s.jsxs("div",{className:"flex flex-col gap-1 p-4 rounded-xl border border-dashed border-line text-sm",children:[s.jsx("span",{className:"font-semibold text-ink",children:t}),e&&s.jsx("span",{className:"text-ink-muted",children:e})]});export{o as E};

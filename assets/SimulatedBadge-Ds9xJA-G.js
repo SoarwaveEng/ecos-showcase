@@ -1,1 +1,0 @@
-import{j as e}from"./index-CksHCdiv.js";const i=({source:s})=>s!=="sim"?null:e.jsx("span",{className:"inline-flex items-center h-6 px-2 rounded-full bg-status-asking-bg text-status-asking-ink text-xs font-semibold uppercase tracking-wide",children:"Simulated"});export{i as S};
